@@ -3,7 +3,7 @@ priority 1
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.1.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.1.bb?raw=true
 shortLabel B_B15_50
 longLabel hg38bp0402 B_B15_50
 color 0,0,0
@@ -14,7 +14,7 @@ priority 2
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.2.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.2.bb?raw=true
 shortLabel B_NC14_42
 longLabel hg38bp0402 B_NC14_42
 color 0,0,0
@@ -25,7 +25,7 @@ priority 3
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.3.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.3.bb?raw=true
 shortLabel CD34_rep1
 longLabel hg38bp0402 CD34_rep1
 color 0,0,0
@@ -36,7 +36,7 @@ priority 4
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.4.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.4.bb?raw=true
 shortLabel CD34_rep2
 longLabel hg38bp0402 CD34_rep2
 color 0,0,0
@@ -47,7 +47,7 @@ priority 5
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.5.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.5.bb?raw=true
 shortLabel CD4_S008H1
 longLabel hg38bp0402 CD4_S008H1
 color 0,0,0
@@ -58,7 +58,7 @@ priority 6
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.6.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.6.bb?raw=true
 shortLabel CD4_S009W4
 longLabel hg38bp0402 CD4_S009W4
 color 0,0,0
@@ -69,7 +69,7 @@ priority 7
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.7.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.7.bb?raw=true
 shortLabel CD8_C0066PH1
 longLabel hg38bp0402 CD8_C0066PH1
 color 0,0,0
@@ -80,7 +80,7 @@ priority 8
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.8.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.8.bb?raw=true
 shortLabel CD8_S00C2FH1
 longLabel hg38bp0402 CD8_S00C2FH1
 color 0,0,0
@@ -91,7 +91,7 @@ priority 9
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.9.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.9.bb?raw=true
 shortLabel CLP_100266
 longLabel hg38bp0402 CLP_100266
 color 0,0,0
@@ -102,7 +102,7 @@ priority 10
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.10.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.10.bb?raw=true
 shortLabel CLP_100267
 longLabel hg38bp0402 CLP_100267
 color 0,0,0
@@ -113,7 +113,7 @@ priority 11
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.11.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.11.bb?raw=true
 shortLabel CMP_100246
 longLabel hg38bp0402 CMP_100246
 color 0,0,0
@@ -124,7 +124,7 @@ priority 12
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.12.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.12.bb?raw=true
 shortLabel CMP_100247
 longLabel hg38bp0402 CMP_100247
 color 0,0,0
@@ -135,7 +135,7 @@ priority 13
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.13.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.13.bb?raw=true
 shortLabel EOS_S006XEH2
 longLabel hg38bp0402 EOS_S006XEH2
 color 0,0,0
@@ -146,7 +146,7 @@ priority 14
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.14.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.14.bb?raw=true
 shortLabel ERY_S002R5
 longLabel hg38bp0402 ERY_S002R5
 color 0,0,0
@@ -157,7 +157,7 @@ priority 15
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.15.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.15.bb?raw=true
 shortLabel ERY_S002S3
 longLabel hg38bp0402 ERY_S002S3
 color 0,0,0
@@ -168,7 +168,7 @@ priority 16
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.16.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.16.bb?raw=true
 shortLabel GMP_100256
 longLabel hg38bp0402 GMP_100256
 color 0,0,0
@@ -179,7 +179,7 @@ priority 17
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.17.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.17.bb?raw=true
 shortLabel GMP_100257
 longLabel hg38bp0402 GMP_100257
 color 0,0,0
@@ -190,7 +190,7 @@ priority 18
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.18.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.18.bb?raw=true
 shortLabel H1_rep1
 longLabel hg38bp0402 H1_rep1
 color 0,0,0
@@ -201,7 +201,7 @@ priority 19
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.19.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.19.bb?raw=true
 shortLabel H1_rep2
 longLabel hg38bp0402 H1_rep2
 color 0,0,0
@@ -212,7 +212,7 @@ priority 20
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.20.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.20.bb?raw=true
 shortLabel H2_rep1
 longLabel hg38bp0402 H2_rep1
 color 0,0,0
@@ -223,7 +223,7 @@ priority 21
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.21.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.21.bb?raw=true
 shortLabel H2_rep2
 longLabel hg38bp0402 H2_rep2
 color 0,0,0
@@ -234,7 +234,7 @@ priority 22
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.22.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.22.bb?raw=true
 shortLabel LMPP_100268
 longLabel hg38bp0402 LMPP_100268
 color 0,0,0
@@ -245,7 +245,7 @@ priority 23
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.23.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.23.bb?raw=true
 shortLabel LMPP_100269
 longLabel hg38bp0402 LMPP_100269
 color 0,0,0
@@ -256,7 +256,7 @@ priority 24
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.24.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.24.bb?raw=true
 shortLabel LSK_100258
 longLabel hg38bp0402 LSK_100258
 color 0,0,0
@@ -267,7 +267,7 @@ priority 25
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.25.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.25.bb?raw=true
 shortLabel LSK_100259
 longLabel hg38bp0402 LSK_100259
 color 0,0,0
@@ -278,7 +278,7 @@ priority 26
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.26.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.26.bb?raw=true
 shortLabel MK_S004BTH2
 longLabel hg38bp0402 MK_S004BTH2
 color 0,0,0
@@ -289,7 +289,7 @@ priority 27
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.27.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.27.bb?raw=true
 shortLabel MK_S00VHKH1
 longLabel hg38bp0402 MK_S00VHKH1
 color 0,0,0
@@ -300,7 +300,7 @@ priority 28
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.28.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.28.bb?raw=true
 shortLabel MONc_C0011IH1
 longLabel hg38bp0402 MONc_C0011IH1
 color 0,0,0
@@ -311,7 +311,7 @@ priority 29
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.29.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.29.bb?raw=true
 shortLabel MONc_C001UYH2
 longLabel hg38bp0402 MONc_C001UYH2
 color 0,0,0
@@ -322,7 +322,7 @@ priority 30
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.30.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.30.bb?raw=true
 shortLabel MONp_Prim_mon_C
 longLabel hg38bp0402 MONp_Prim_mon_C
 color 0,0,0
@@ -333,7 +333,7 @@ priority 31
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.31.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.31.bb?raw=true
 shortLabel MONp_Prim_mon_F
 longLabel hg38bp0402 MONp_Prim_mon_F
 color 0,0,0
@@ -344,7 +344,7 @@ priority 32
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.32.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.32.bb?raw=true
 shortLabel MPP_100272
 longLabel hg38bp0402 MPP_100272
 color 0,0,0
@@ -355,7 +355,7 @@ priority 33
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.33.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.33.bb?raw=true
 shortLabel MPP_100273
 longLabel hg38bp0402 MPP_100273
 color 0,0,0
@@ -366,7 +366,7 @@ priority 34
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.34.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.34.bb?raw=true
 shortLabel NEU_C0011IH2
 longLabel hg38bp0402 NEU_C0011IH2
 color 0,0,0
@@ -377,7 +377,7 @@ priority 35
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.35.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.35.bb?raw=true
 shortLabel NEU_C001UYH1
 longLabel hg38bp0402 NEU_C001UYH1
 color 0,0,0
@@ -388,7 +388,7 @@ priority 36
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.36.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.36.bb?raw=true
 shortLabel NK_S005YG
 longLabel hg38bp0402 NK_S005YG
 color 0,0,0
@@ -399,7 +399,7 @@ priority 37
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.37.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.37.bb?raw=true
 shortLabel NK_S01E4WH0
 longLabel hg38bp0402 NK_S01E4WH0
 color 0,0,0
@@ -410,7 +410,7 @@ priority 38
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.38.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.38.bb?raw=true
 shortLabel PBMC_rep1
 longLabel hg38bp0402 PBMC_rep1
 color 0,0,0
@@ -421,7 +421,7 @@ priority 39
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.39.bb
+bigDataUrl https://github.com/guanjue/test_data2/blob/master/Tracks/hg38bp0402.39.bb?raw=true
 shortLabel PBMC_rep2
 longLabel hg38bp0402 PBMC_rep2
 color 0,0,0
