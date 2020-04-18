@@ -1,0 +1,5 @@
+hub hg38bp0402
+shortLabel hg38bp0402
+longLabel hg38bp0402
+genomesFile genomes_hg38bp0402.txt
+email gzx103@psu.edu

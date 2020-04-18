@@ -1,0 +1,429 @@
+track bigBed1
+priority 1
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.1.bb
+shortLabel B_B15_50
+longLabel hg38bp0402 B_B15_50
+color 0,0,0
+visibility dense
+
+track bigBed2
+priority 2
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.2.bb
+shortLabel B_NC14_42
+longLabel hg38bp0402 B_NC14_42
+color 0,0,0
+visibility dense
+
+track bigBed3
+priority 3
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.3.bb
+shortLabel CD34_rep1
+longLabel hg38bp0402 CD34_rep1
+color 0,0,0
+visibility dense
+
+track bigBed4
+priority 4
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.4.bb
+shortLabel CD34_rep2
+longLabel hg38bp0402 CD34_rep2
+color 0,0,0
+visibility dense
+
+track bigBed5
+priority 5
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.5.bb
+shortLabel CD4_S008H1
+longLabel hg38bp0402 CD4_S008H1
+color 0,0,0
+visibility dense
+
+track bigBed6
+priority 6
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.6.bb
+shortLabel CD4_S009W4
+longLabel hg38bp0402 CD4_S009W4
+color 0,0,0
+visibility dense
+
+track bigBed7
+priority 7
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.7.bb
+shortLabel CD8_C0066PH1
+longLabel hg38bp0402 CD8_C0066PH1
+color 0,0,0
+visibility dense
+
+track bigBed8
+priority 8
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.8.bb
+shortLabel CD8_S00C2FH1
+longLabel hg38bp0402 CD8_S00C2FH1
+color 0,0,0
+visibility dense
+
+track bigBed9
+priority 9
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.9.bb
+shortLabel CLP_100266
+longLabel hg38bp0402 CLP_100266
+color 0,0,0
+visibility dense
+
+track bigBed10
+priority 10
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.10.bb
+shortLabel CLP_100267
+longLabel hg38bp0402 CLP_100267
+color 0,0,0
+visibility dense
+
+track bigBed11
+priority 11
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.11.bb
+shortLabel CMP_100246
+longLabel hg38bp0402 CMP_100246
+color 0,0,0
+visibility dense
+
+track bigBed12
+priority 12
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.12.bb
+shortLabel CMP_100247
+longLabel hg38bp0402 CMP_100247
+color 0,0,0
+visibility dense
+
+track bigBed13
+priority 13
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.13.bb
+shortLabel EOS_S006XEH2
+longLabel hg38bp0402 EOS_S006XEH2
+color 0,0,0
+visibility dense
+
+track bigBed14
+priority 14
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.14.bb
+shortLabel ERY_S002R5
+longLabel hg38bp0402 ERY_S002R5
+color 0,0,0
+visibility dense
+
+track bigBed15
+priority 15
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.15.bb
+shortLabel ERY_S002S3
+longLabel hg38bp0402 ERY_S002S3
+color 0,0,0
+visibility dense
+
+track bigBed16
+priority 16
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.16.bb
+shortLabel GMP_100256
+longLabel hg38bp0402 GMP_100256
+color 0,0,0
+visibility dense
+
+track bigBed17
+priority 17
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.17.bb
+shortLabel GMP_100257
+longLabel hg38bp0402 GMP_100257
+color 0,0,0
+visibility dense
+
+track bigBed18
+priority 18
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.18.bb
+shortLabel H1_rep1
+longLabel hg38bp0402 H1_rep1
+color 0,0,0
+visibility dense
+
+track bigBed19
+priority 19
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.19.bb
+shortLabel H1_rep2
+longLabel hg38bp0402 H1_rep2
+color 0,0,0
+visibility dense
+
+track bigBed20
+priority 20
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.20.bb
+shortLabel H2_rep1
+longLabel hg38bp0402 H2_rep1
+color 0,0,0
+visibility dense
+
+track bigBed21
+priority 21
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.21.bb
+shortLabel H2_rep2
+longLabel hg38bp0402 H2_rep2
+color 0,0,0
+visibility dense
+
+track bigBed22
+priority 22
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.22.bb
+shortLabel LMPP_100268
+longLabel hg38bp0402 LMPP_100268
+color 0,0,0
+visibility dense
+
+track bigBed23
+priority 23
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.23.bb
+shortLabel LMPP_100269
+longLabel hg38bp0402 LMPP_100269
+color 0,0,0
+visibility dense
+
+track bigBed24
+priority 24
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.24.bb
+shortLabel LSK_100258
+longLabel hg38bp0402 LSK_100258
+color 0,0,0
+visibility dense
+
+track bigBed25
+priority 25
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.25.bb
+shortLabel LSK_100259
+longLabel hg38bp0402 LSK_100259
+color 0,0,0
+visibility dense
+
+track bigBed26
+priority 26
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.26.bb
+shortLabel MK_S004BTH2
+longLabel hg38bp0402 MK_S004BTH2
+color 0,0,0
+visibility dense
+
+track bigBed27
+priority 27
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.27.bb
+shortLabel MK_S00VHKH1
+longLabel hg38bp0402 MK_S00VHKH1
+color 0,0,0
+visibility dense
+
+track bigBed28
+priority 28
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.28.bb
+shortLabel MONc_C0011IH1
+longLabel hg38bp0402 MONc_C0011IH1
+color 0,0,0
+visibility dense
+
+track bigBed29
+priority 29
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.29.bb
+shortLabel MONc_C001UYH2
+longLabel hg38bp0402 MONc_C001UYH2
+color 0,0,0
+visibility dense
+
+track bigBed30
+priority 30
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.30.bb
+shortLabel MONp_Prim_mon_C
+longLabel hg38bp0402 MONp_Prim_mon_C
+color 0,0,0
+visibility dense
+
+track bigBed31
+priority 31
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.31.bb
+shortLabel MONp_Prim_mon_F
+longLabel hg38bp0402 MONp_Prim_mon_F
+color 0,0,0
+visibility dense
+
+track bigBed32
+priority 32
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.32.bb
+shortLabel MPP_100272
+longLabel hg38bp0402 MPP_100272
+color 0,0,0
+visibility dense
+
+track bigBed33
+priority 33
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.33.bb
+shortLabel MPP_100273
+longLabel hg38bp0402 MPP_100273
+color 0,0,0
+visibility dense
+
+track bigBed34
+priority 34
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.34.bb
+shortLabel NEU_C0011IH2
+longLabel hg38bp0402 NEU_C0011IH2
+color 0,0,0
+visibility dense
+
+track bigBed35
+priority 35
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.35.bb
+shortLabel NEU_C001UYH1
+longLabel hg38bp0402 NEU_C001UYH1
+color 0,0,0
+visibility dense
+
+track bigBed36
+priority 36
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.36.bb
+shortLabel NK_S005YG
+longLabel hg38bp0402 NK_S005YG
+color 0,0,0
+visibility dense
+
+track bigBed37
+priority 37
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.37.bb
+shortLabel NK_S01E4WH0
+longLabel hg38bp0402 NK_S01E4WH0
+color 0,0,0
+visibility dense
+
+track bigBed38
+priority 38
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.38.bb
+shortLabel PBMC_rep1
+longLabel hg38bp0402 PBMC_rep1
+color 0,0,0
+visibility dense
+
+track bigBed39
+priority 39
+type bigBed 9 .
+itemRgb on
+maxItems 100000
+bigDataUrl http://bx.psu.edu/~gzx103/tmp/hg38bp0402.39.bb
+shortLabel PBMC_rep2
+longLabel hg38bp0402 PBMC_rep2
+color 0,0,0
+visibility dense
+
